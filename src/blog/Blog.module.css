@@ -1,0 +1,21 @@
+.search{
+    background-color: #101010;
+    outline: none;
+    border: none;
+    color: white;
+}
+.search:focus{
+    border: 1px solid #ea580c;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-color: #1a1a1a;
+    border: 1px solid #262626;
+}
+.active{
+    text-decoration: none;
+    color: white;
+    background-color: #ea580c;
+    border: 1px solid #ea5a0c58;
+}

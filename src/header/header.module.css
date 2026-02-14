@@ -1,0 +1,63 @@
+.header{
+    padding-top: 10rem;
+    padding-bottom: 4rem;
+}
+.cricleDot{
+    width: .3rem;
+    height: .3rem;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #ea580c;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.pHeader{
+    border: 2px solid #ea5a0c58;
+    width: fit-content;
+    margin: auto;
+    background: rgba(249, 116, 22, 0.16);
+    font-weight: lighter;
+}
+.hHeader{
+    font-size: 4.3rem;
+    width: 34rem;
+    font-weight: bolder;
+    margin: auto;
+}
+.btnBlog{
+    text-decoration: none;
+    background-color: #ea580c;
+}
+.btn{
+    text-decoration: none;
+    border: 1px solid white;
+    color: white;
+}
+.btn:hover{
+    border: 1px solid #ea580c;
+    background: rgba(249, 116, 22, 0.16);
+    color: #ea580c;
+}
+.card{
+    border: 1px solid grey;
+    background: #161616cc;
+    width: 9.5rem;
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
+.icon{
+    color: #ea580c;
+    font-size: 1.5rem;
+}
+.spNum{
+    font-size: 2rem;
+    color: #f97316;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}

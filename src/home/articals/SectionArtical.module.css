@@ -1,0 +1,37 @@
+.sectionArtic{
+    background-color: #101010;
+}
+.cricleDot{
+    width: .3rem;
+    height: .3rem;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #ea580c;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.categ{
+    border: 1px solid #ea5a0c58;
+    color: #ea580c;
+    background: rgba(249, 116, 22, 0.16);
+    width: fit-content;
+}
+.link{
+    text-decoration: none;
+    align-self: flex-end;
+    color: #ea580c;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+.link:hover {
+    transform: translateX(-5%);
+    -webkit-transform: translateX(-5%);
+    -moz-transform: translateX(-5%);
+    -ms-transform: translateX(-5%);
+    -o-transform: translateX(-5%);
+}
