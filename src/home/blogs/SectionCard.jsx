@@ -1,6 +1,6 @@
 import Card from "./Cards/Card";
 import {posts} from '../../data/data.json'
-import styles from './SectionCard.module.css'
+import styles from './sectionCard.module.css'
 import { Link } from "react-router-dom";
 export default function SectionCard() {
     let cards = posts.slice(0,3)
